@@ -9,9 +9,12 @@
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-    
-</p><br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">    
+</p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zini9188&layout=compact)](https://github.com/zini9188/github-readme-stats)
+
+<br>
 
 <p align="center">
     💡used at least once
@@ -36,4 +39,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zheldrhtn)](https://solved.ac/zheldrhtn/)    
     
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zini9188&layout=compact)](https://github.com/zini9188/github-readme-stats)
