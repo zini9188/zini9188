@@ -28,4 +28,11 @@
 
 <div align=center>
 
-![zini9188's github stats](https://github-readme-stats.vercel.app/api?username=zini9188&show_icons=true) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zheldrhtn)](https://solved.ac/zheldrhtn/)    
+<p align="center">
+![zini9188's github stats](https://github-readme-stats.vercel.app/api?username=zini9188&show_icons=true) 
+</p> 
+    
+<p align="center">
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zheldrhtn)](https://solved.ac/zheldrhtn/)    
+
+</p> 
