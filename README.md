@@ -34,3 +34,6 @@
 </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zheldrhtn)](https://solved.ac/zheldrhtn/)    
+    
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zini9188&layout=compact)](https://github.com/zini9188/github-readme-stats)
