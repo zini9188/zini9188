@@ -1,3 +1,5 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=zini9188's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <p align="center">
@@ -16,7 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zini9188&layout=compact)](https://github.com/zini9188/github-readme-stats)
 
-<br>
 
 <p align="center">
     💡used at least once
@@ -29,15 +30,31 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">   
 </p>
 
-<br>
+
+📞 Email
+<div align=center>
+	<a href="zini9188@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>    
+</div>
+
+📖 Project & Study
 
 <div align=center>
+	<a href="https://github.com/2022-CapstoneDesign/Pacer-Fit">
+    	<img src="https://img.shields.io/badge/project-181717?style=for-the-badge&logo=github&logoColor=white">
+    </a>
+    <a href="https://velog.io/@zini9188">
+        <img src="https://img.shields.io/badge/velog-E4405?style=for-the-badge&logo=velog&logoColor=white"> 
+    </a>       
+</div>
 
-![zini9188's github stats](https://github-readme-stats.vercel.app/api?username=zini9188&show_icons=true) 
-    
-<p>
-</p>
+---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zheldrhtn)](https://solved.ac/zheldrhtn/)    
-    
+✏️ Status
+<div align=center>
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zheldrhtn)](https://solved.ac/zheldrhtn/)  ![zini9188's github stats](https://github-readme-stats.vercel.app/api?username=zini9188&theme=radical&show_icons=true)
+
+</div>
