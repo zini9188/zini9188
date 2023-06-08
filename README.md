@@ -42,10 +42,10 @@
 
 <div align=center>
 	<a href="https://github.com/2022-CapstoneDesign/Pacer-Fit">
-    	<img src="https://img.shields.io/badge/android-project-181717?style=for-the-badge&logo=github&logoColor=white">
+    	<img src="https://img.shields.io/badge/android project-181717?style=for-the-badge&logo=github&logoColor=white">
     </a>
 	<a href="https://github.com/codestates-seb/seb43_main_027">
-    	<img src="https://img.shields.io/badge/backend-project-181717?style=for-the-badge&logo=github&logoColor=white">	
+    	<img src="https://img.shields.io/badge/backend project-181717?style=for-the-badge&logo=github&logoColor=white">	
     </a>
     <a href="https://velog.io/@zini9188">
         <img src="https://img.shields.io/badge/velog-E4405?style=for-the-badge&logo=velog&logoColor=white"> 
