@@ -4,7 +4,6 @@
 
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
-    💡used as the main
 </p>
 
 <p align="center" display="inline-block">
@@ -18,46 +17,24 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zini9188&layout=compact)](https://github.com/zini9188/github-readme-stats)
 
 
-<p align="center">
-    💡used at least once
-</p>
-
-<p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">   
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-</p>
-
-
 📞 Email
 <div align=center>
 	<a href="zini9188@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>    
-</div>
-
-📖 Project & Study
-
-<div align=center>
-	<a href="https://github.com/2022-CapstoneDesign/Pacer-Fit">
-    	<img src="https://img.shields.io/badge/android project-181717?style=for-the-badge&logo=github&logoColor=white">
-    </a>
-	<a href="https://github.com/codestates-seb/seb43_main_027">
-    	<img src="https://img.shields.io/badge/backend project-181717?style=for-the-badge&logo=github&logoColor=white">	
-    </a>
     <a href="https://velog.io/@zini9188">
         <img src="https://img.shields.io/badge/velog-E4405?style=for-the-badge&logo=velog&logoColor=white"> 
-    </a>       
-</div>
+    </a>  
+</div><br>
 
----
 
-✏️ Status
+✏️ BaekJoon & Status
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zheldrhtn)](https://solved.ac/zheldrhtn/)  
+
+
 <div align=center>
-
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zheldrhtn)](https://solved.ac/zheldrhtn/)  ![zini9188's github stats](https://github-readme-stats.vercel.app/api?username=zini9188&theme=radical&show_icons=true)
+	
+![zini9188's github stats](https://github-readme-stats.vercel.app/api?username=zini9188&theme=radical&show_icons=true)
 
 </div>
