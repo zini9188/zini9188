@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zini9188&layout=compact)](https://github.com/zini9188/github-readme-stats)
 
 
-📞 Email
+📞 Contact
 <div align=center>
 	<a href="zini9188@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
@@ -30,8 +30,7 @@
 
 ✏️ BaekJoon & Status
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zheldrhtn)](https://solved.ac/zheldrhtn/)  
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zheldrhtn)](https://solved.ac/zheldrhtn/) ![mazandi profile](http://mazandi.herokuapp.com/api?handle=zheldrhtn&theme=cold)
 
 <div align=center>
 	
